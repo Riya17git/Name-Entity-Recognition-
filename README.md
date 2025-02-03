@@ -53,10 +53,4 @@ This NER model can be applied in a wide range of scenarios:
 - **Legal**: Extract case names, legal terms, and other relevant entities from legal documents, contracts, or case reports.
 - **Customer Support**: Automatically identify key pieces of information from customer queries, such as product names, issues, and dates, to streamline customer support workflows.
 
-## How to Run the Project
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
 
